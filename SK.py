@@ -1,3 +1,5 @@
+##RANI ISE BACK JO BI PANGA LEGA WUSKA YEHI HAAL HOGA 
+## NAME TO YAAD HE 🍌✌️
 from os import path
 import os,base64,zlib,pip,urllib
 os.system('xdg-open https://facebook.com/groups/291183553213655/')
