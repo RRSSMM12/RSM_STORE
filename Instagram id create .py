@@ -1,3 +1,9 @@
+#https://www.facebook.com/mistyxd0.2
+
+#RANI ISE BAXCK
+#OPEN SOURCE 😥
+#NEED FOR PROXY
+
 import requests
 import os
 import time
