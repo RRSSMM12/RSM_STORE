@@ -103,4 +103,4 @@ class RANI1():
                 exit()
 
 
-RANI1
+RANI1()
